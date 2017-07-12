@@ -1,0 +1,11 @@
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/service/UserSearchService.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/domain/Intent.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/controller/UserSearchServiceController.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/domain/UserSearchResult.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/repository/UserSearchServiceRepository.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/domain/RelationShipOf.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/domain/Term.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/service/UserSearchServiceImpl.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/UserSearchServiceApplication.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/domain/UserInput.java
+/home/user/Documents/usersearchservice/src/main/java/com/stackroute/swisit/usersearchservice/domain/IndicatorOf.java
